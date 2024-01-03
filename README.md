@@ -1,4 +1,4 @@
-## Health Data Probability App Streamlit
+## Survival Analysis App Streamlit
 
 - How to Run
 
