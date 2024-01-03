@@ -26,7 +26,7 @@ class App():
     }
 
     def init_app(self):
-        st.title("Analisis Survival")
+        st.title("Antarmuka Grafis Analisis Survival")
         st.sidebar.title("Input Your Data")
 
     def get_data_excel(self):
